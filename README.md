@@ -1,2 +1,2 @@
 # CashFlowTracker
-Fullstack webApp to track cash inflow and outflow
+Fullstack webApp to track cash inflow/outflow
